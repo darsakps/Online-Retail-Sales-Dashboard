@@ -21,7 +21,7 @@ This project is an interactive Tableau dashboard built using an online retail da
 - dashboard.png
 
 ## Tableau Public Dashboard
-Paste your Tableau Public link here.
+https://public.tableau.com/app/profile/darsak.ps/viz/onlinesalesdashboard_17824107915400/OnlineRetailSalesDashboard?publish=yes
 
 ## Author
 **Darsak PS**
