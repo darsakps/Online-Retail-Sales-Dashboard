@@ -3,6 +3,10 @@
 ## Overview
 This project is an interactive Tableau dashboard built using an online retail dataset. It provides insights into sales performance, customer behavior, and country-wise revenue.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
 ## Dashboard Features
 - 📈 Revenue Trend
 - 🌍 Revenue by Country
